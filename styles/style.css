@@ -91,11 +91,11 @@ a.textLink:active {
   /*background-color: #010409;*/
   background-color: #979797;
   padding-left: 25em;
-  padding-top: 0.5em;
-  padding-bottom: 2.25em;
+  padding-top: 0em;
+  padding-bottom: 3em;
   bottom: 0;
   width: 83%;
-  height: 4rem;            /* Footer height */
+  height: 5.25em;            /* Footer height */
 }
 .footer-bottom {
   position: fixed;
