@@ -1,12 +1,12 @@
-<h2>Michael Reyes, CEO and Webmaster</h2>
+<h2>Michael Reyes, Founder and Webmaster</h2>
 <img src="/images/APC_0030.JPG" width="640" alt="Michael Reyes"><br \>
-<p>I'm the one who coded the HTML and CSS for the website, along with set up the mail server, shot the commercial, and did most of the management.</p>
-<h2>William Heng, something</h2>
+<p>I'm the one who coded the HTML and CSS for the website, along with set up the mail server, shot the commercial, and did most of the management. I transferred ownership to William after I found out how great of a manager he is.</p>
+<h2>William Heng, CEO</h2>
 <img src="/images/APC_0043.JPG" width="640" alt="Michael Reyes"><br \>
-<p>Lorem ipsum dolor sit amet.</p>
-<h2>Aaron Meyer, Market Research</h2>
+<p>I manage evevrything that happens in this company, from updating our website to shooting commercials.</p>
+<h2>Aaron Meyer, Market Researcher</h2>
 <img src="/images/APC_0047.JPG" width="640" alt="Michael Reyes"><br \>
-<p>Lorem ipsum dolor sit amet.</p>
+<p>I listen to music and watch commercials to find out exactly what consumers would want out of our products. I also make sure we are able to beat competition in at least one aspect.</p>
 <h2>Oak Khant, Graphic Designer</h2>
 <img src="/images/APC_0021.JPG" width="640" alt="Michael Reyes"><br \>
-<p>Lorem ipsum dolor sit amet.</p>
+<p>I make sure everything looks good, from our logo to our fliers to our products.</p>
