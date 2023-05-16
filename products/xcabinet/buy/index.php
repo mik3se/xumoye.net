@@ -14,6 +14,7 @@
                         <?php include("../../../include/buttongroup.php");?>
                         <br />
                         <h1>To buy the xCabinet, please fill out this order form.</h1>
+                        <h6>Do not fill this form out with real information, as this site is not secure.</h6>
                         <form action="/products/xcabinet/order-fulfilled/" method="post">
                             <label for="firstname">First name:</label><br>
                             <input type="text" id="firstname" name="firstname" required><br \><br \>
