@@ -14,7 +14,7 @@
                         <?php include("../../include/buttongroup.php");?>
                         <br />
                         <p><a href="/products/xcabinet/buy" class="textLink">Buy Now</a></p>
-                        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xyrvbNuUkvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/e728uL3w4P4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                         <h2>The xCabinet</h2>
                         <h4>Partying just got a whole lot more fun.</h4>
                         <img src="/images/20230508172745_IMG_0030.jpg" width="504" alt="The xCabinet">
