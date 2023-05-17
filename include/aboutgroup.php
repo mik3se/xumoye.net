@@ -2,7 +2,7 @@
 <img src="/images/APC_0030.JPG" width="640" alt="Image of Michael Reyes"><br \>
 <p>I'm the one who coded the HTML and CSS for the website, along with set up the mail server, shot the commercial, and did most of the management. I transferred ownership to William after I found out how great of a manager he is.</p>
 <h2>William Heng, CEO</h2>
-<img src="/images/AAPC_0043.jpg" width="640" alt="Image of William Heng"><br \>
+<img src="/images/APC_0043.jpg" width="640" alt="Image of William Heng"><br \>
 <p>I manage everything that happens in this company, from updating our website to shooting commercials.</p>
 <h2>Aaron Meyer, Market Researcher</h2>
 <img src="/images/APC_0047.JPG" width="640" alt="Image of Aaron Meyer"><br \>
