@@ -7,6 +7,6 @@
 <h2>Aaron Meyer, Market Researcher</h2>
 <img src="/images/APC_0047.JPG" width="640" alt="Image of Aaron Meyer"><br \>
 <p>I listen to music and watch commercials to find out exactly what consumers would want out of our products. I also make sure we are able to beat competition in at least one aspect.</p>
-<h2>Oak Khant, Graphic Designer</h2>
+<h2>Oak Khant, Co-founder and Graphic Designer</h2>
 <img src="/images/APC_0021.JPG" width="640" alt="Image of Aaron Meyer"><br \>
-<p>I make sure everything looks good, from our logo to our fliers to our products.</p>
+<p>I make sure everything looks good, from our logo to our fliers to our products. I helped come up with the idea of the xCabinet.</p>
