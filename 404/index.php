@@ -2,7 +2,7 @@
 <html>
     <head>
       <meta charset="utf-8">
-      <title>Xumoye LLC - Template</title>
+      <title>Xumoye LLC - Error 404</title>
       <?php include("../include/links.php");?>
     </head>
     <body>
