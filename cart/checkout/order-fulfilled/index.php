@@ -15,7 +15,8 @@
                         <br />
                         <h1>Your order has been fulfilled!</h1>
                         Your total order cost is: $<?php
-                        $quantity = $_POST["orderquantity"];
+                        session_start();
+                        $quantity = isset($_SESSION['quantity']) ? $_SESSION['quantity'] : 0;
                         echo (15 * $quantity); ?>.<br>
                         Please do not expect this product to arrive, this is not a real order form.
                         <a href="/" class="textLink"><h2>Back home</h2></a>

@@ -20,7 +20,9 @@
                             <option value="midnight">Midnight Black</option>
                             <option value="onyx">Onxy</option>
                             <option value="vantablack">Vantablack®</option>
-                        </select>
+                        </select><br />
+                        <label for="orderquantity">Quantity:</label><br />
+                        <input type="number" id="orderquantity" name="orderquantity" required>
                         <div style="line-height:40%;">
                             <br />
                         </div>

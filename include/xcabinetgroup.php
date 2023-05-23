@@ -1,3 +1,3 @@
 <img src="/images/xCabinet.JPG" width="504" alt="The xCabinet">
 <h4>$15.00</h4>
-<p>A speaker cabinet for your phone. When tested on an iPhone 14 Pro Max, it showed an increase of 5 dB. That's over twice as loud! It also showed increases in mid frequencies. This is the perfect accessory for your phone, and the perfect gift for a friend or a special other! Fits phones up to 14 mm thick and 115 mm wide.</p>
+<p>A speaker cabinet for your phone. When tested on an iPhone 14 Pro Max, it showed an increase of 5 dB. That&#39;s over twice as loud! It also showed increases in mid frequencies. This is the perfect accessory for your phone, and the perfect gift for a friend or a special other! Fits phones up to 14 mm thick and 115 mm wide.</p>
