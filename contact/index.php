@@ -17,13 +17,13 @@
                         <a href="mailto:info@xumoye.net" class="textLink">info@xumoye.net</a><br />
                         <h3>Customer Support</h3>
                         <a href="mailto:support@xumoye.net" class="textLink">support@xumoye.net</a><br />
-                        <h3>Michael Reyes, CEO and Webmaster</h3>
+                        <h3>Michael Reyes, Founder and Webmaster</h3>
                         <a href="mailto:mik3se@xumoye.net" class="textLink">mik3se@xumoye.net</a><br />
                         <h3>Aaron Meyer, Market Research</h3>
                         <a href="mailto:aaronmayor@xumoye.net" class="textLink">aaronmayor@xumoye.net</a><br />
-                        <h3>William Heng, something</h3>
+                        <h3>William Heng, CEO</h3>
                         <a href="mailto:willyheng@xumoye.net" class="textLink">willyheng@xumoye.net</a><br />
-                        <h3>Oak Khant, Graphic Designer</h3>
+                        <h3>Oak Khant, Co-founder and Graphic Designer</h3>
                         <a href="mailto:oakkhant@xumoye.net" class="textLink">oakkhant@xumoye.net</a><br />
                         <h1>Phone Number:</h2>
                         <h3>Xumoye LLC</h3>
